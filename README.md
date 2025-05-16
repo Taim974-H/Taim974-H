@@ -1,4 +1,4 @@
-Hi 👋 My name is Taimoor Hussain
+Hi 👋
 ================================
 
 AI Master's Student | Software & ML Developer
