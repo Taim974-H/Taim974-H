@@ -4,7 +4,12 @@ Hi 👋
 AI Master's Student | Software & AI Developer
 ---------------------------------------------
 
-I'm currently a master's student in Artificial Intelligence based in Germany with a background in Computer Science. I'm currently working as a student developer, where I primarily code in Python - building filtering algorithms, processing wireless system data, and working with tools like MATLAB as well. My interests lie particularly in deep learning and computer vision. I’ve built projects involving object detection using transfer learning, facial recognition, and RGB-D data streaming using RealSense camera and currently working on TCN + LSTM hybrid model with semi-supervised methods on time series data. I also enjoy exploring backend development and have worked on several fullstack projects, both web and Android-based. The world of tech is too big for me to know it all at this stage of life, but if there was a magic button that would allow me to learn things in bullk, I would press it to have additional skills in embedded systems, quantum computing, signal processing, neuroinformatics combined with my skills of software developlment and AI engineering.
+I'm currently a master's student in Artificial Intelligence based in Germany with a background in Computer Science. I'm currently working as a student developer, where I primarily code in Python - building filtering algorithms, processing wireless system data, and working with tools like MATLAB as well. My interests lie particularly in deep learning and computer vision. I’ve built projects involving object detection using transfer learning, facial recognition, and RGB-D data streaming using RealSense camera. I also enjoy exploring backend development and have worked on several fullstack projects, both web and Android-based. The world of tech is too big for me to know it all at this stage of life, but if there was a magic button that would allow me to learn things in bullk, I would press it to have additional skills in embedded systems, quantum computing, signal processing, neuroinformatics combined with my skills of software developlment and AI engineering.
+
+Currently working on:
+- TCN + LSTM hybrid model with semi-supervised methods on time series data
+- Vascular pattern recognition using ilin University - Dorsal Hand Vein Database
+- bunch of other ai stuff.. (:
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [https://www.linkedin.com/in/taimoor974/](mailto:https://www.linkedin.com/in/taimoor974/)
