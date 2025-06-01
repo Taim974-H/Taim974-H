@@ -8,7 +8,7 @@ I'm currently a master's student in Artificial Intelligence based in Germany wit
 
 Currently working on:
 - TCN + LSTM hybrid model with semi-supervised methods on time series data
-- Vascular pattern recognition using ilin University - Dorsal Hand Vein Database
+- Vascular pattern recognition using jilin University - Dorsal Hand Vein Database
 - bunch of other ai stuff.. (:
 
 *   🌍  I'm based in Germany
